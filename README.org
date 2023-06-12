@@ -1,0 +1,9 @@
+* lambda-fiddle
+
+A collection of utilities to process lambda-lists.
+
+|---------+---------------------------------------------------|
+| source  | git:https://github.com/Shinmera/lambda-fiddle.git |
+| commit  | 1b07e21                                           |
+| systems | lambda-fiddle                                     |
+|---------+---------------------------------------------------|
