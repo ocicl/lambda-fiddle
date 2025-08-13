@@ -4,6 +4,6 @@ A collection of utilities to process lambda-lists.
 
 |---------+---------------------------------------------------|
 | source  | git:https://github.com/Shinmera/lambda-fiddle.git |
-| commit  | cec28d1                                           |
+| commit  | 807ae48                                           |
 | systems | lambda-fiddle                                     |
 |---------+---------------------------------------------------|
