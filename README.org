@@ -3,7 +3,7 @@
 A collection of utilities to process lambda-lists.
 
 |---------+---------------------------------------------------|
-| source  | git:https://github.com/Shinmera/lambda-fiddle.git |
-| commit  | 807ae48                                           |
+| source  | git:https://codeberg.org/shinmera/lambda-fiddle.git |
+| commit  | 0000000                                           |
 | systems | lambda-fiddle                                     |
 |---------+---------------------------------------------------|
